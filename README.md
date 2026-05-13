@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Richard Mejía 👋</h1>
+<h1 align="center">Hola, soy Richard Mejía (Perfil en construcción v1.3)👋</h1>
 <h3 align="center">Machine Learning Engineer & Data Scientist</h3>
 
 <p align="center">
